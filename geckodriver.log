@@ -1,0 +1,35 @@
+1652679119553	geckodriver	INFO	Listening on 127.0.0.1:63652
+1652679122659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63653" "-no-remote" "-profile" "C:\\Users\\subha\\AppData\\Local\\Temp\\rust_mozprofileO5JkXz"
+1652679123145	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\subha\\AppData\\Local\\Temp\\rust_mozprofileO5JkXz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63653/devtools/browser/fb28b125-25a4-4620-aaf6-391efc497a3f
+1652679125107	Marionette	INFO	Listening on port 63660
+1652679125353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://learner.ibridge360.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://learner.ibridge360.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652679868132	Marionette	INFO	Stopped listening on port 63660
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\subha\\AppData\\Local\\Temp\\rust_mozprofileyY4IU0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63951/devtools/browser/0afad126-ad53-4997-9390-182dff2e4fc8
+1652679551343	Marionette	INFO	Listening on port 63958
+1652679551627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652679554767	Marionette	INFO	Stopped listening on port 63958
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652679555466	geckodriver	INFO	Listening on 127.0.0.1:64012
+1652679558520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64013" "-no-remote" "-profile" "C:\\Users\\subha\\AppData\\Local\\Temp\\rust_mozprofilebF5Y0u"
+1652679558927	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\subha\\AppData\\Local\\Temp\\rust_mozprofilebF5Y0u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64013/devtools/browser/3963cd63-3a44-4803-8ba6-884f320b0f89
+1652679560392	Marionette	INFO	Listening on port 64020
+1652679560606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://learner.ibridge360.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://learner.ibridge360.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652679568352	Marionette	INFO	Stopped listening on port 64020

@@ -1,0 +1,11 @@
+1652677490822	geckodriver	INFO	Listening on 127.0.0.1:62719
+1652677493903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62720" "-no-remote" "-profile" "C:\\Users\\subha\\AppData\\Local\\Temp\\rust_mozprofileRBbpVk"
+1652677494391	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\subha\\AppData\\Local\\Temp\\rust_mozprofileRBbpVk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62720/devtools/browser/e75c5798-5e88-40a2-828e-55fa392cb07b
+1652677496088	Marionette	INFO	Listening on port 62725
+1652677496128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://learner.ibridge360.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://learner.ibridge360.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652677503891	Marionette	INFO	Stopped listening on port 62725
